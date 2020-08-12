@@ -1,8 +1,8 @@
 ﻿[
 	{
-		"Country Name": "Thailand",
-		"Country Code": "THA",
-		"Indicator Name": "Birth_rate",
+		"CountryName": "Thailand",
+		"CountryCode": "THA",
+		"IndicatorName": "Birth_rate",
 		"Y_1960": "crude_Per1",
 		"Y_1961": "000people",
 		"Y_1962": "42.735",
@@ -65,9 +65,9 @@
 		"Y_2019": "10.513"
 	},
 	{
-		"Country Name": "Thailand",
-		"Country Code": "THA",
-		"Indicator Name": "CO2_emissions_kt",
+		"CountryName": "Thailand",
+		"CountryCode": "THA",
+		"IndicatorName": "CO2_emissions_kt",
 		"Y_1960": "3714.671",
 		"Y_1961": "4147.377",
 		"Y_1962": "5034.791",
@@ -130,9 +130,9 @@
 		"Y_2019": ""
 	},
 	{
-		"Country Name": "Thailand",
-		"Country Code": "THA",
-		"Indicator Name": "Energy_imports",
+		"CountryName": "Thailand",
+		"CountryCode": "THA",
+		"IndicatorName": "Energy_imports",
 		"Y_1960": "net_persen_Of_energy_use",
 		"Y_1961": "",
 		"Y_1962": "",
@@ -195,9 +195,9 @@
 		"Y_2019": ""
 	},
 	{
-		"Country Name": "Thailand",
-		"Country Code": "THA",
-		"Indicator Name": "Fertility_rate",
+		"CountryName": "Thailand",
+		"CountryCode": "THA",
+		"IndicatorName": "Fertility_rate",
 		"Y_1960": "total_births_per_woman",
 		"Y_1961": "6.147",
 		"Y_1962": "6.151",
@@ -260,9 +260,9 @@
 		"Y_2019": "1.525"
 	},
 	{
-		"Country Name": "Thailand",
-		"Country Code": "THA",
-		"Indicator Name": "PM2_air_pollution",
+		"CountryName": "Thailand",
+		"CountryCode": "THA",
+		"IndicatorName": "PM2_air_pollution",
 		"Y_1960": "mean_annual_exposure_micrograms_per_cubic_meter",
 		"Y_1961": "",
 		"Y_1962": "",
@@ -325,9 +325,9 @@
 		"Y_2019": ""
 	},
 	{
-		"Country Name": "Thailand",
-		"Country Code": "THA",
-		"Indicator Name": "Population_density_People_per_sqkm_of_land_area",
+		"CountryName": "Thailand",
+		"CountryCode": "THA",
+		"IndicatorName": "Population_density_People_per_sqkm_of_land_area",
 		"Y_1960": "",
 		"Y_1961": "55.245134960559",
 		"Y_1962": "56.9221123921",
@@ -390,9 +390,9 @@
 		"Y_2019": ""
 	},
 	{
-		"Country Name": "Thailand",
-		"Country Code": "THA",
-		"Indicator Name": "Rural_population",
+		"CountryName": "Thailand",
+		"CountryCode": "THA",
+		"IndicatorName": "Rural_population",
 		"Y_1960": "22007628",
 		"Y_1961": "22641161",
 		"Y_1962": "23296739",
@@ -455,9 +455,9 @@
 		"Y_2019": "34330982"
 	},
 	{
-		"Country Name": "Thailand",
-		"Country Code": "THA",
-		"Indicator Name": "Survival_to_age_65_female_Persen_of_cohort",
+		"CountryName": "Thailand",
+		"CountryCode": "THA",
+		"IndicatorName": "Survival_to_age_65_female_Persen_of_cohort",
 		"Y_1960": "54.1063644",
 		"Y_1961": "54.8440552",
 		"Y_1962": "55.581746",
@@ -520,9 +520,9 @@
 		"Y_2019": ""
 	},
 	{
-		"Country Name": "Thailand",
-		"Country Code": "THA",
-		"Indicator Name": "Survival_to_age65Male_Persen_of_cohort",
+		"CountryName": "Thailand",
+		"CountryCode": "THA",
+		"IndicatorName": "Survival_to_age65Male_Persen_of_cohort",
 		"Y_1960": "45.4403492",
 		"Y_1961": "45.9611416",
 		"Y_1962": "46.481934",
@@ -585,9 +585,9 @@
 		"Y_2019": ""
 	},
 	{
-		"Country Name": "Thailand",
-		"Country Code": "THA",
-		"Indicator Name": "Urban_population",
+		"CountryName": "Thailand",
+		"CountryCode": "THA",
+		"IndicatorName": "Urban_population",
 		"Y_1960": "5389579",
 		"Y_1961": "5583026",
 		"Y_1962": "5784199",
