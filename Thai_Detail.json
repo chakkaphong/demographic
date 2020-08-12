@@ -1,5 +1,4 @@
-﻿{
-    "Sheet3": [
+﻿[
         {
             "CountryName": "Thailand",
             "CountryCode": "THA",
@@ -588,4 +587,3 @@
             "Y_2019": "35294600.0"
         }
     ]
-}
